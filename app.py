@@ -1,8 +1,8 @@
 import streamlit as st
 import joblib
-
-import pandas as pd
 import keras
+import pandas as pd
+from keras.models import load_model
   
 # provide tab title
 st.set_page_config("Deployment Project")
