@@ -83,4 +83,4 @@ if submit: # if submit==True
     else:
         res_op = "Booking will NOT be Approved"
     
-    st.subheader(f"Predictions are: {res_op}")app.py file
+    st.subheader(f"Predictions are: {res_op}")
