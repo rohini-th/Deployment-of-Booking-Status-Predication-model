@@ -75,3 +75,6 @@ def predict():
 
 if __name__=="__main__":
     flask_app.run(debug=True)
+
+    # To execute flask app.. run this command: 
+#python app2.py
