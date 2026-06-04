@@ -4,7 +4,7 @@ matplotlib
 seaborn
 numpy>=1.26.0
 
-scikit-learn==1.5.2
+scikit-learn==1.6.1
 
 statsmodels
 plotly
